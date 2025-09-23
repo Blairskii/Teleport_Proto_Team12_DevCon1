@@ -14,12 +14,7 @@ the forces of The Resonant.
 
 **Objective:**
 
-<figure>
-<img
-src="..........\GitHub\Teleport_Proto_Team12_DevCon1\Assets\gZdRF.png"
-alt="gZdRF.png" />
-<figcaption aria-hidden="true">gZdRF.png</figcaption>
-</figure>
+![telefrag](https://raw.githubusercontent.com\Teleport_Proto_Team12_DevCon1\Assets\300px-Telefrag.png")
 
 We seek to create an FPS prototype that investigates how “Tele-Fragging”
 can be used as a central mechanic for navigation, combat and
@@ -53,12 +48,7 @@ level design, to the point where the challenge of this game will come
 less from combat with enemies but more from navigating the levels
 *while* doing combat with enemies.
 
-<figure>
-<img
-src="..........\GitHub\Teleport_Proto_Team12_DevCon1\Assets\300px-Telefrag.png"
-alt="300px-Telefrag.png" />
-<figcaption aria-hidden="true">300px-Telefrag.png</figcaption>
-</figure>
+![tf2telefrag]("https://raw.githubusercontent.com\Teleport_Proto_Team12_DevCon1\Assets\300px-Telefrag.png")
 
 Considering that enemies are the means by which you teleport, enemy
 placement will become incredibly important. It is key that we ensure
@@ -72,8 +62,13 @@ like this, just like Superhot or Neon White, the level itself is the
 challenge, while the enemies are mostly there to provide some resistance
 as the player works out how to reach the exit.
 
-**Team & Roles:** - Jake - Design, Documentation - Blair - Programming,
-Design - Sergio - Assets, Level Design
+**Team & Roles:** 
+
+- Jake - Design, Documentation
+  
+- Blair - Programming, Design
+  
+- Sergio - Assets, Level Design
 
 **Core Gameplay:**
 
@@ -121,12 +116,7 @@ a particular level.  
 
 - **The Bio-Kinetic Resonator**
 
-<figure>
-<img
-src="..........\GitHub\Teleport_Proto_Team12_DevCon1\Assets\TF2_TimeGauntlet_Concept.jpg"
-alt="TF2_TimeGauntlet_Concept.jpg" />
-<figcaption aria-hidden="true">TF2_TimeGauntlet_Concept.jpg</figcaption>
-</figure>
+![resonator]("https://raw.githubusercontent.com\Teleport_Proto_Team12_DevCon1\Assets\TF2_TimeGauntlet_Concept.jpg")
 
 - This is an advanced prototype of a device that allows the user to
   synchronize their energetic waveform with that of others’, which via
@@ -156,13 +146,7 @@ for their weapons, enemies, pickups and more, Tele-Frag would use simple
 or low-poly 3D models to represent these things, similar to what
 Half-Life does for them.
 
-<figure>
-<img
-src="..........\GitHub\Teleport_Proto_Team12_DevCon1\Assets\33e23e70-857f-11ee-bbc6-eb8368f39728.jpg"
-alt="33e23e70-857f-11ee-bbc6-eb8368f39728.jpg" />
-<figcaption
-aria-hidden="true">33e23e70-857f-11ee-bbc6-eb8368f39728.jpg</figcaption>
-</figure>
+![halflife]("https://raw.githubusercontent.com\Teleport_Proto_Team12_DevCon1\Assets\33e23e70-857f-11ee-bbc6-eb8368f39728.jpg"")
 
 **Interface, HUD and UI**
 
