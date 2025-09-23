@@ -116,7 +116,7 @@ a particular level.  
 
 - **The Bio-Kinetic Resonator**
 
-![resonator](Assets\TF2_TimeGauntlet_Concept.png)
+![resonator](https://media.githubusercontent.com/media/Blairskii/Teleport_Proto_Team12_DevCon1/refs/heads/master/Assets/TF2_TimeGauntlet_Concept.png)
 
 - This is an advanced prototype of a device that allows the user to
   synchronize their energetic waveform with that of others’, which via
@@ -146,7 +146,7 @@ for their weapons, enemies, pickups and more, Tele-Frag would use simple
 or low-poly 3D models to represent these things, similar to what
 Half-Life does for them.
 
-![halflife](Assets/33e23e70-857f-11ee-bbc6-eb8368f39728.png)
+![halflife](https://media.githubusercontent.com/media/Blairskii/Teleport_Proto_Team12_DevCon1/refs/heads/master/Assets/33e23e70-857f-11ee-bbc6-eb8368f39728.png)
 
 **Interface, HUD and UI**
 
