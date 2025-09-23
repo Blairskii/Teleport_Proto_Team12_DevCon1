@@ -14,7 +14,7 @@ the forces of The Resonant.
 
 **Objective:**
 
-![telefrag]("Assets\300px-Telefrag.png")
+![telefrag]("Teleport_Proto_Team12_DevCon1\Assets\300px-Telefrag.png")
 
 We seek to create an FPS prototype that investigates how “Tele-Fragging”
 can be used as a central mechanic for navigation, combat and
@@ -48,7 +48,7 @@ level design, to the point where the challenge of this game will come
 less from combat with enemies but more from navigating the levels
 *while* doing combat with enemies.
 
-![tf2telefrag]("Assets\300px-Telefrag.png")
+![tf2telefrag]("Teleport_Proto_Team12_DevCon1\Assets\300px-Telefrag.png")
 
 Considering that enemies are the means by which you teleport, enemy
 placement will become incredibly important. It is key that we ensure
@@ -116,7 +116,7 @@ a particular level.  
 
 - **The Bio-Kinetic Resonator**
 
-![resonator]("Assets\TF2_TimeGauntlet_Concept.jpg")
+![resonator]("Teleport_Proto_Team12_DevCon1\Assets\TF2_TimeGauntlet_Concept.jpg")
 
 - This is an advanced prototype of a device that allows the user to
   synchronize their energetic waveform with that of others’, which via
@@ -146,7 +146,7 @@ for their weapons, enemies, pickups and more, Tele-Frag would use simple
 or low-poly 3D models to represent these things, similar to what
 Half-Life does for them.
 
-![halflife]("Assets\33e23e70-857f-11ee-bbc6-eb8368f39728.jpg"")
+![halflife]("Teleport_Proto_Team12_DevCon1\Assets\33e23e70-857f-11ee-bbc6-eb8368f39728.jpg"")
 
 **Interface, HUD and UI**
 
