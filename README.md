@@ -34,24 +34,25 @@ Okay, enough of that pirate radio crap. Please inform SPC. Klein if you detect a
 
 **INSTRUCTIONS ENCLOSED BELOW: FOR COMMAND EYES ONLY. VIOLATIONS PUNISHED WITH NO LESS THAN 180 DAYS IMPRISONMENT.**
 
-RECIPIENT: SGT. Weyland, 
-RANK: ISS Virtue Security, Sergeant (E-5). 
-CONTENTS: Instructions for navigation and job duties aboard the ISS Virtue. 
+RECIPIENT: SGT. Weyland  
+RANK: ISS Virtue Security, Sergeant (E-5).  
+CONTENTS: Instructions for navigation and job duties aboard the ISS Virtue.   
 
-- **W** - Forward
-- **S** - Back
-- **A** - Strafe Left
-- **D** - Strafe Right
+- **W** - Forward  
+- **S** - Back  
+- **A** - Strafe Left  
+- **D** - Strafe Right  
 
-**Mouse 1** - Fire Weapon
-**Mouse 2** - _Telefrag_ 
+**Mouse 1** - Fire Weapon  
+**Mouse 2** - _Telefrag_  
 
 **Space** - Jump
 
-**CRITICAL NOTE FROM QUARTERMASTER:** There has been some confusion regarding the issuing of service weapons, and how they link up with your suit's systems. You will need to pick up your rifle first before the rest of your systems fully engage. **(Pick up the gun _first!_ You need it to Telefrag!)**
+**CRITICAL NOTE FROM QUARTERMASTER:** There has been some confusion regarding the issuing of service weapons, and how they link up with your suit's systems. You will need to pick up your rifle first before the rest of your systems fully engage.  
+**(Pick up the gun _first!_ You need it to Telefrag!)**  
 
-**TRANSMISSION END.**
+**TRANSMISSION END.**  
 
-SovOS powering down.…
-......…
-.........
+SovOS powering down.…  
+......…  
+......…  
