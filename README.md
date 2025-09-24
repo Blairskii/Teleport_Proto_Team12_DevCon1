@@ -43,10 +43,10 @@ CONTENTS: Instructions for navigation and job duties aboard the ISS Virtue.
 - **A** - Strafe Left  
 - **D** - Strafe Right  
 
-**Mouse 1** - Fire Weapon  
-**Mouse 2** - _Telefrag_  
+- **Mouse 1** - Fire Weapon  
+- **Mouse 2** - _Telefrag_  
 
-**Space** - Jump
+- **Space** - Jump
 
 **CRITICAL NOTE FROM QUARTERMASTER:** There has been some confusion regarding the issuing of service weapons, and how they link up with your suit's systems. You will need to pick up your rifle first before the rest of your systems fully engage.  
 **(Pick up the gun _first!_ You need it to Telefrag!)**  
