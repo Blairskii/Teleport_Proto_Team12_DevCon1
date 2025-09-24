@@ -1,12 +1,12 @@
 # **"Tele-Frag" - GAME10016 - DevCon 1**
 
-_SovOS powering up...…
-.....…
-SovOS Ready!
-Connecting to network...…
-Network Connected! IPv4:186.87.152.113
-. . . waiting . . .
-Displaying Message:_
+_SovOS powering up...…  
+.....…  
+SovOS Ready!  
+Connecting to network...…  
+Network Connected! IPv4:186.87.152.113  
+. . . waiting . . .  
+Displaying Message:_  
 
 **DevCon 1:** Rapid Prototype 1
 **Title:** Tele-Frag
