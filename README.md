@@ -8,9 +8,9 @@ Network Connected! IPv4:186.87.152.113
 . . . waiting . . .  
 Displaying Message:_  
 
-**DevCon 1:** Rapid Prototype 1
-**Title:** Tele-Frag
-**Team:** Jake, Blair, Sergio
+**DevCon 1:** Rapid Prototype 1  
+**Title:** Tele-Frag  
+**Team:** Jake, Blair, Sergio  
 
 Welcome to Tele-Frag, a fast-paced retro FPS that revolves around the ability to "tele-frag". 
 
@@ -20,7 +20,7 @@ Now, with concrete and other hard, inorganic materials, it makes sense that this
 
 Enter the Bio-Kinetic Resonator! This handy little highly-classified device _only_ telefrags! Want to use it to escape a dangerous situation? Well, looks like someone is going to have to explode. Want to use it to cross the street without going to prison? Tough luck! Want to use it in a productive and constructive manner? Nope, it's got one purpose, and that purpose is to _make people explode!_ 
 
----------------------------------------------------------------------------------[ROGUE SIGNAL DETECTED]---------------------------------------------------------------------------------
+--------------------------------------------[ROGUE SIGNAL DETECTED]--------------------------------------------
 
 ASCJcA&SC%AG@Q!NBASVC&#(&)sca76scaAFJHJRG$@ACASCBghvgb7scCVWTYKYOMIAUIUYB^@GBCAN^!NACHACSV(ZSC*AHV&GKSC)II_JSCGGXA)
 UCSVAJJ$!@MCAS<AQWPP^T($&(&&%!NPLHLKOJ!@#()%)AV@SAKCM<_____=......>.....AS>C>>asc.............................................................................................…
@@ -30,7 +30,9 @@ UCSVAJJ$!@MCAS<AQWPP^T($&(&&%!NPLHLKOJ!@#()%)AV@SAKCM<_____=......>.....AS>C>>as
 
 **TRANSMISSION INCOMING FROM:** _Maj. Rannick_ 
 
-Okay, enough of that pirate radio crap. Please inform SPC. Klein if you detect any more of these signals in the future. Sgt. Weyland, I will be sending you and your unit your orders shortly. You are to carefully examine these instructions, and relay them to your unit. Failure to follow these instructions will result in a penalty decided upon and administered by your CO. Serve with pride, strength, and courage, Sergeant. - Maj. Braden Rannick. 
+Okay, enough of that pirate radio crap. Please inform SPC. Klein if you detect any more of these signals in the future. Sgt. Weyland, I will be sending you and your unit your orders shortly. You are to carefully examine these instructions, and relay them to your unit. Failure to follow these instructions will result in a penalty decided upon and administered by your CO. Serve with pride, strength, and courage, Sergeant.  
+
+- Maj. Braden Rannick.  
 
 **INSTRUCTIONS ENCLOSED BELOW: FOR COMMAND EYES ONLY. VIOLATIONS PUNISHED WITH NO LESS THAN 180 DAYS IMPRISONMENT.**
 
