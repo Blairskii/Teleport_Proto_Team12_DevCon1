@@ -203,7 +203,7 @@ galaxy-spanning empire. This bug, which came to be known as the Silicon
 Plague, slowly began to corrupt any and all devices it encountered,
 network connected or otherwise, eventually reducing all of the data on
 said devices into useless junk data. While it could, in theory, have
-been contained on Earth, we were slow to respond, and by the scale of
+been contained on Earth, we were slow to respond, and by the time the scale of
 the problem was uncovered, it had already been spread throughout the
 galaxy via the FTL Communications System. It took three months for this
 bug to be fully discovered, and in that time, it had already consumed
@@ -320,10 +320,11 @@ the repair bay on Deck 11. Shortly after arriving, you hear a broadcast
 on a radio in the room. Something about an invasion? Attackers? What the
 hell is going on? Well, you’re security, so this is on you. 
 
+-----------------------------------------------------------------
 This is where *Tele-Frag* starts. From here on, you’d explore the ship,
 and learn about what happened as you fight the alien invaders, the
 ship’s systems that have gone haywire, and more, a la System Shock or
-Marathon.
+Marathon. 
 
 **Sources & Citations:**
 
